@@ -1,0 +1,5 @@
+Các thư viện nhóm đã sử dụng:
+- pandas: pip install pandas
+- seaborn: pip install seaborn
+- matplotlib: pip install matplotlib
+- plotly: pip install plotly
